@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="cb5e62c1-03dc-4ce3-a781-fcbe43320017" name="Changes" comment="写了主题函数主要是提交一次花费">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/123456.json" beforeDir="false" afterPath="$PROJECT_DIR$/123456.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2j3bMg8YXojRkM5gRtFtsKH7slt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -92,10 +95,35 @@
       <option name="project" value="LOCAL" />
       <updated>1720625277749</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="写了主题函数主要是提交一次花费">
+      <option name="closed" value="true" />
+      <created>1720626824938</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720626824938</updated>
+    </task>
+    <task id="LOCAL-00003" summary="写了主题函数主要是提交一次花费">
+      <option name="closed" value="true" />
+      <created>1720626884127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720626884127</updated>
+    </task>
+    <task id="LOCAL-00004" summary="写了主题函数主要是提交一次花费">
+      <option name="closed" value="true" />
+      <created>1720626893916</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720626893916</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="写了主题函数主要是提交一次花费1" />
     <MESSAGE value="写了主题函数主要是提交一次花费" />
     <option name="LAST_COMMIT_MESSAGE" value="写了主题函数主要是提交一次花费" />
   </component>

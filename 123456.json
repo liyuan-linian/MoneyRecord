@@ -22,6 +22,31 @@
                     "type": "\u5403\u665a\u996d",
                     "count": 100,
                     "notes": ""
+                },
+                "2": {
+                    "type": "\u5403\u665a\u996d",
+                    "count": 200,
+                    "notes": ""
+                },
+                "3": {
+                    "type": "\u5403\u665a\u996d",
+                    "count": 300,
+                    "notes": ""
+                },
+                "4": {
+                    "type": "\u5403\u665a\u996d",
+                    "count": 500,
+                    "notes": ""
+                },
+                "5": {
+                    "type": "\u5403\u665a\u996d",
+                    "count": 600,
+                    "notes": ""
+                },
+                "6": {
+                    "type": "\u5403\u665a\u996d",
+                    "count": 700,
+                    "notes": ""
                 }
             }
         }
