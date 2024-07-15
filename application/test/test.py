@@ -1,5 +1,4 @@
-import math
-from Recoder import  Recoder
+from application.components.Recoder import  Recoder
 
 a = Recoder(123456)
 a.renewDict()

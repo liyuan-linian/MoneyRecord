@@ -5,7 +5,7 @@ class Recoder():
     def __init__(self, id):
         self.id = id
         self.Moneydict = None
-        s = "{id}.json".format(id=id)
+        s = "../statics/{id}.json".format(id=id)
         Moneydict = {
             1990: {  # year
                 1: {  # month
@@ -34,12 +34,12 @@ class Recoder():
                 json.dump(Moneydict, file, sort_keys=True, indent=4)
 
     def renewDict(self):
-        s = "{id}.json".format(id=self.id)
+        s = "../statics/{id}.json".format(id=self.id)
         with open(s, 'r') as file:
             self.Moneydict = json.load(file)
 
     def saveDict(self):
-        s = "{id}.json".format(id=self.id)
+        s = "../statics/{id}.json".format(id=self.id)
         with open(s, 'w') as file:
             json.dump(self.Moneydict, file, sort_keys=False, indent=4)
 
